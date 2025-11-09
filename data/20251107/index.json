@@ -1,0 +1,73 @@
+{
+  "Version": 0,
+  "Description": "StickyHomeworks数据导出文件",
+  "ExportDate": "2025-11-08T09:05:57",
+  "Homeworks": [
+    {
+      "Content": "期中模拟1",
+      "Subject": "数学",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "作业 34",
+      "Subject": "数学",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "试卷全写 没讲完的知识点不用写",
+      "Subject": "生物",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "试卷半张 T1-13",
+      "Subject": "物理",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "课堂本 P1-10（先写再去订正，不然抄10遍）",
+      "Subject": "英语",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "背U1单词+笔记",
+      "Subject": "英语",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "11.6讲义 周日收",
+      "Subject": "英语",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "作文",
+      "Subject": "语文",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "老人与海 梳理老人与鲨鱼搏斗过程（表格形式）1时间，2攻击者名称，3数量，4作战工具 5结局",
+      "Subject": "语文",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "订正 凤 复活 晚自习下前把答案交上来",
+      "Subject": "语文",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    },
+    {
+      "Content": "错题二T1-14 14(3)选做 + 错题三大题",
+      "Subject": "化学",
+      "DueTime": "2025-11-07T23:59:00",
+      "Tags": []
+    }
+  ]
+}
