@@ -1,0 +1,70 @@
+﻿{
+  "Version": 0,
+  "Description": "StickyHomeworks数据导出文件",
+  "ExportDate": "2025-11-14T19:22:23.7057069+08:00",
+  "Homeworks": [
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">试卷写完</Run></Paragraph></FlowDocument>",
+      "Subject": "生物",
+      "DueTime": "2025-11-14T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument IsOptimalParagraphEnabled=\"True\" PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">试卷七写完+八选择</Run></Paragraph></FlowDocument>",
+      "Subject": "物理",
+      "DueTime": "2025-11-14T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">试卷</Run></Paragraph></FlowDocument>",
+      "Subject": "数学",
+      "DueTime": "2025-11-14T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">试卷 不收</Run></Paragraph></FlowDocument>",
+      "Subject": "化学",
+      "DueTime": "2025-11-14T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">对语文答案</Run></Paragraph></FlowDocument>",
+      "Subject": "语文",
+      "DueTime": "2025-11-14T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">理解性默写x2</Run></Paragraph></FlowDocument>",
+      "Subject": "语文",
+      "DueTime": "2025-11-14T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument IsOptimalParagraphEnabled=\"True\" PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">11.11讲义</Run></Paragraph></FlowDocument>",
+      "Subject": "英语",
+      "DueTime": "2025-11-14T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    }
+  ]
+}
