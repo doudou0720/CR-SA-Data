@@ -1,0 +1,88 @@
+﻿{
+  "Version": 0,
+  "Description": "StickyHomeworks数据导出文件",
+  "ExportDate": "2025-11-21T19:23:22.143532+08:00",
+  "Homeworks": [
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">练透</Run></Paragraph></FlowDocument>",
+      "Subject": "数学",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">练透</Run></Paragraph></FlowDocument>",
+      "Subject": "物理",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">南通 第25练 T8不写</Run></Paragraph></FlowDocument>",
+      "Subject": "生物",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">卷 剩下の</Run></Paragraph></FlowDocument>",
+      "Subject": "英语",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">错题本 （期中+山东语法）</Run></Paragraph></FlowDocument>",
+      "Subject": "英语",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">背诵期中卷，周一上课直接听写，不及格者上黑板</Run></Paragraph></FlowDocument>",
+      "Subject": "英语",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">练习本 课时24 写完 + 课时25 T1-5</Run></Paragraph></FlowDocument>",
+      "Subject": "化学",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">凤凰 长征胜利万岁</Run></Paragraph></FlowDocument>",
+      "Subject": "语文",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">期中试卷 非连 材料一 论点+论据</Run></Paragraph></FlowDocument>",
+      "Subject": "语文",
+      "DueTime": "2025-11-21T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    }
+  ]
+}
