@@ -1,0 +1,70 @@
+﻿{
+  "Version": 0,
+  "Description": "StickyHomeworks数据导出文件",
+  "ExportDate": "2025-11-28T20:21:27.9711743+08:00",
+  "Homeworks": [
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">午练半小时 19、20练</Run></Paragraph></FlowDocument>",
+      "Subject": "数学",
+      "DueTime": "2025-11-28T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">练透</Run></Paragraph></FlowDocument>",
+      "Subject": "物理",
+      "DueTime": "2025-11-28T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">南通 第三练 全写（第二练空着）</Run></Paragraph></FlowDocument>",
+      "Subject": "生物",
+      "DueTime": "2025-11-28T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">语法讲义</Run></Paragraph></FlowDocument>",
+      "Subject": "英语",
+      "DueTime": "2025-11-28T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">背群内续写讲义 周一听</Run></Paragraph></FlowDocument>",
+      "Subject": "英语",
+      "DueTime": "2025-11-28T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">练习本 P73-75 T9 12不写</Run></Paragraph></FlowDocument>",
+      "Subject": "化学",
+      "DueTime": "2025-11-28T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    },
+    {
+      "Content": "<FlowDocument PagePadding=\"5,0,5,0\" AllowDrop=\"True\" NumberSubstitution.CultureSource=\"User\" xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"><Paragraph><Run xml:lang=\"zh-cn\">课堂本 P29-40</Run></Paragraph></FlowDocument>",
+      "Subject": "英语",
+      "DueTime": "2025-11-28T23:59:59+08:00",
+      "Tags": [],
+      "IsNearExpiration": false,
+      "IsExpired": false,
+      "IsActive": false
+    }
+  ]
+}
